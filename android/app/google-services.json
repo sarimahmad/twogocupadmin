@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2964543149",
+    "project_id": "gocup-5f873",
+    "storage_bucket": "gocup-5f873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2964543149:android:3abad5bcd88026f9c45824",
+        "android_client_info": {
+          "package_name": "com.app.twogocupCustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2964543149-qd4t75atgd39b47o03fv4vdnhnunns0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-jAeCIwu71UFsrJ6VQUjBGM0aXnc3Dz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2964543149-qd4t75atgd39b47o03fv4vdnhnunns0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
